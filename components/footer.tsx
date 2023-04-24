@@ -16,7 +16,6 @@ const navLinks = [
   { NavString: "FAQ", NavLink: "/faq" },
   { NavString: "Privacy Policy", NavLink: "/privacy-policy" },
   { NavString: "Terms of Use", NavLink: "/terms-of-use" },
-  { NavString: "Sitemap", NavLink: "/sitemap" },
   { NavString: "Careers", NavLink: "/careers" },
   { NavString: "Press", NavLink: "/press" },
 ];
