@@ -1,5 +1,5 @@
 import React from "react";
-import Navbar from "./navbar";
+import Header from "./header";
 import Footer from "./footer";
 
 interface LayoutProps {
@@ -9,7 +9,7 @@ interface LayoutProps {
 function Layout({ children }: LayoutProps) {
   return (
     <>
-      <Navbar />
+      <Header />
       <main>{children}</main>
       <Footer />
     </>
